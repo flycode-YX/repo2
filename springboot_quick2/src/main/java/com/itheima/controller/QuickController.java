@@ -8,7 +8,7 @@ public class QuickController {
 
     @RequestMapping("/quick2")
     public String quick(){
-        return "springBoot !!!qewrwqr";
+        return "springBoot !!!qewrwqr77";
     }
 
 }
